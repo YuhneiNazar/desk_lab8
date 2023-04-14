@@ -1,0 +1,3 @@
+﻿  desk_lab8.cpp
+C:\Users\Nazar\Desktop\lab\desk_lab8\desk_lab8\desk_lab8.cpp(66,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  desk_lab8.vcxproj -> C:\Users\Nazar\Desktop\lab\desk_lab8\x64\Debug\desk_lab8.exe

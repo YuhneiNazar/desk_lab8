@@ -1,0 +1,4 @@
+﻿  UnitTest_desklab8.cpp
+C:\Users\Nazar\Desktop\lab\desk_lab8\desk_lab8\desk_lab8.cpp(66,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+     Creating library C:\Users\Nazar\Desktop\lab\desk_lab8\x64\Debug\UnitTest_desklab8.lib and object C:\Users\Nazar\Desktop\lab\desk_lab8\x64\Debug\UnitTest_desklab8.exp
+  UnitTest_desklab8.vcxproj -> C:\Users\Nazar\Desktop\lab\desk_lab8\x64\Debug\UnitTest_desklab8.dll
